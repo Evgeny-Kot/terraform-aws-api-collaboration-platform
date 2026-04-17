@@ -1,0 +1,5 @@
+bucket         = "org-terraform-state"
+key            = "terraform-aws-api-collaboration-platform/prod/terraform.tfstate"
+region         = "us-east-1"
+dynamodb_table = "org-terraform-locks"
+encrypt        = true

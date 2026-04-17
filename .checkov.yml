@@ -1,0 +1,3 @@
+soft-fail: false
+download-external-modules: false
+compact: true

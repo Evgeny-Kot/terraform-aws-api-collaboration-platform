@@ -1,0 +1,4 @@
+exclude:
+  - aws-ec2-no-public-ingress-sgr
+
+soft-fail: false
